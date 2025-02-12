@@ -3,7 +3,6 @@ import 'package:evently/modules/layout/widgets/category_card.dart';
 import 'package:evently/modules/layout/widgets/custom_tab_bar_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import '';
 import '../../core/theme/color_palette.dart';
 import '../../core/widgets/custom_elevated_button.dart';
 

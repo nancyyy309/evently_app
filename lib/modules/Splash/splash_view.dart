@@ -1,5 +1,4 @@
 import 'dart:async';
-import 'dart:developer';
 import 'package:evently/core/extensions/extensions.dart';
 import 'package:flutter/material.dart';
 
